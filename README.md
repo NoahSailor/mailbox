@@ -37,11 +37,11 @@ PC之间发送和接收电子邮件的重要步骤：
 
 #### 1.3.1 简单邮件传输协议SMTP
 
-![image-20211207161759029](C:\Users\tangjie01\AppData\Roaming\Typora\typora-user-images\image-20211207161759029.png)
+![image](https://user-images.githubusercontent.com/39179120/145344409-5a95d103-494d-44fa-8f67-5566f7180a2c.png)
 
 1. 连接建立
 
-![image-20211207164712773](C:\Users\tangjie01\AppData\Roaming\Typora\typora-user-images\image-20211207164712773.png)
+![image](https://user-images.githubusercontent.com/39179120/145344423-59fb47fe-7acf-4a54-9a6e-1f44f37b5a0b.png)
 
 2. 邮件发送
 
@@ -77,7 +77,7 @@ SMTP缺点：
 
 通用因特网邮件扩充MIME：使电子邮件系统可以支持声音、图像、视频、多种国家语言等等。
 
-![image-20211207173152026](C:\Users\tangjie01\AppData\Roaming\Typora\typora-user-images\image-20211207173152026.png)
+![image](https://user-images.githubusercontent.com/39179120/145344440-946bc518-f29d-43e7-84d2-fa43bec68740.png)
 
 #### 1.3.3 电子邮件的信息格式
 
