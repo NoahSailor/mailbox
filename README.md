@@ -208,4 +208,4 @@ MailUtil.send(account, CollUtil.newArrayList("xxxx@qq.com"), "测试", content, 
 
 1. https://www.hutool.cn/docs/#/extra/%E9%82%AE%E4%BB%B6%E5%B7%A5%E5%85%B7-MailUtil
 2. 《计算机网络》谢希仁
-3. https://www.javajike.com/book/hutool/chapter13/8601729e6eee0c3a901fc95a303d639d.html
+3. https://www.hutool.cn/docs/#/extra/%E9%82%AE%E4%BB%B6%E5%B7%A5%E5%85%B7-MailUtil
