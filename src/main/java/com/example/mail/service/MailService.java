@@ -26,7 +26,7 @@ public class MailService {
         account.setAuth(true);
         account.setFrom("1440879349@qq.com");
         account.setUser("1440879349");
-        account.setPass("uokkkppebvaqhbeg");
+        account.setPass("uokkkppebvaqh");
         MailUtil.send(account, CollUtil.newArrayList("1440879349@qq.com"), "测试", "邮件测试", false);
 
     }
