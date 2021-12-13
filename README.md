@@ -42,31 +42,9 @@ PC之间发送和接收电子邮件的重要步骤：
 
 ![SMTP](https://user-images.githubusercontent.com/39179120/145780013-c366aec1-c531-4b1e-942f-3f05ec4ab5b7.jpg)
 
-1. 连接建立
+SMTP通信主要包括：连接建立、邮件发送、连接释放
 
-![image](https://user-images.githubusercontent.com/39179120/145344423-59fb47fe-7acf-4a54-9a6e-1f44f37b5a0b.png)
-
-2. 邮件发送
-
-A：MAIL FROM:<1440879349@qq.com>
-
-B：250 OK/451，452，500 （是否已经准备好接收邮件）
-
-A：RCPT TO: <收件人地址>
-
-B：250 OK/550 No such user here（确定是否有这个用户）
-
-A：DATA（开始传输邮件内容）
-
-B：354 Start mail input; end with<CRLF>.<CRLF>（同意传输）
-
-A：DATA（开始传输内容）
-
-B：250OK（接收结束）
-
-3. 连接释放
-
-邮件发送完毕后，SMTP客户应发送QUIT命令。SMTP服务器返回的信息是“221（服务关闭）”，表示SMTP同意释放TCP连接。邮件传送的全部过程即结束。
+![邮件发送](https://user-images.githubusercontent.com/39179120/145794107-5dd489a2-8591-438b-b896-03385039218c.jpg)
 
 SMTP不使用中间的邮件服务器。不管发送方和接收方的邮件服务器相隔有多远，不管在邮件的传送过程中要经过多少个路由器，TCP连接总是发送方和接收方这两个邮件服务器之间直接建立。当接收方邮件服务器出故障而不能工作时，发送方邮件服务器只能等待一段时间后再尝试和该邮件服务器建立连接，而不能先找一个中间的邮件服务器建立TCP连接。
 
