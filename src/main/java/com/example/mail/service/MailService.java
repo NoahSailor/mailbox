@@ -24,10 +24,10 @@ public class MailService {
         account.setHost("smtp.qq.com");
         account.setPort(25);
         account.setAuth(true);
-        account.setFrom("1440879349@qq.com");
-        account.setUser("1440879349");
+        account.setFrom("用户名@qq.com");
+        account.setUser("用户名");
         account.setPass("uokkkppebvaqh");
-        MailUtil.send(account, CollUtil.newArrayList("1440879349@qq.com"), "测试", "邮件测试", false);
+        MailUtil.send(account, CollUtil.newArrayList("用户名@qq.com"), "测试", "邮件测试", false);
 
     }
 
