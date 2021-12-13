@@ -35,7 +35,7 @@ public class MailService {
      * mail.setting设置MailAccount
      */
     public void sendMail2(){
-        MailUtil.send(CollUtil.newArrayList("1440879349@qq.com"), "测试", "邮件测试2", false);
+        MailUtil.send(CollUtil.newArrayList("用户名@qq.com"), "测试", "邮件测试2", false);
     }
 
     /**
@@ -47,6 +47,6 @@ public class MailService {
         Map<String, Object> map = new HashMap<>(1);
         map.put("mail", "测试3");
         String content = template.render(map);
-        MailUtil.send(CollUtil.newArrayList("1440879349@qq.com"), "测试", content, true);
+        MailUtil.send(CollUtil.newArrayList("用户名@qq.com"), "测试", content, true);
     }
 }
