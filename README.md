@@ -4,7 +4,7 @@
 
 ### 1.1 应用场景
 
-![应用场景](https://user-images.githubusercontent.com/39179120/145344229-96bf19a5-f3e8-48b2-808f-072d4891028e.jpg)
+![应用场景](https://user-images.githubusercontent.com/39179120/145777685-b8e5dfea-b0bf-4f5e-b710-180ab05844ce.jpg)
 
 ### 1.2电子邮件概述
 
