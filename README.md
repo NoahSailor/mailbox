@@ -40,8 +40,6 @@ PC之间发送和接收电子邮件的重要步骤：
 
 ![SMTP](https://user-images.githubusercontent.com/39179120/145780013-c366aec1-c531-4b1e-942f-3f05ec4ab5b7.jpg)
 
-![SMTP](https://user-images.githubusercontent.com/39179120/145784357-e1da0568-0d8a-45da-8ac7-82314ef570fb.jpg)
-
 1. 连接建立
 
 ![image](https://user-images.githubusercontent.com/39179120/145344423-59fb47fe-7acf-4a54-9a6e-1f44f37b5a0b.png)
