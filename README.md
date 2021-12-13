@@ -42,7 +42,7 @@ PC之间发送和接收电子邮件的重要步骤：
 
 1. 连接建立
 
-![image](https://user-images.githubusercontent.com/39179120/145344423-59fb47fe-7acf-4a54-9a6e-1f44f37b5a0b.png)
+![建立连接](https://user-images.githubusercontent.com/39179120/145787815-707e4284-711f-4162-a408-4c39754fb8b0.jpg)
 
 2. 邮件发送
 
