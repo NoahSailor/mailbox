@@ -37,7 +37,7 @@ PC之间发送和接收电子邮件的重要步骤：
 
 #### 1.3.1 简单邮件传输协议SMTP
 
-![SMTP](https://user-images.githubusercontent.com/39179120/145779694-542e0a4c-946a-4912-b4ae-f3d33390eec6.jpg)
+![SMTP](https://user-images.githubusercontent.com/39179120/145780013-c366aec1-c531-4b1e-942f-3f05ec4ab5b7.jpg)
 
 1. 连接建立
 
