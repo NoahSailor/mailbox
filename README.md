@@ -23,7 +23,7 @@
 3. 处理：处理包括发送邮件和接收邮件，如：删除、存盘、打印、转发等。
 4. 通信：利用邮件发送协议发送到用户所使用的邮件服务器，使用邮件读取协议从本地邮件服务器接收邮件。
 
-![电子邮件组成构件](https://user-images.githubusercontent.com/39179120/145782271-0e871bfa-12eb-438e-bb49-6cf60b511ae6.jpg)
+![组成](https://user-images.githubusercontent.com/39179120/145970192-2cf62880-400e-4f5a-b619-228c95ae5ccd.jpg)
 
 PC之间发送和接收电子邮件的重要步骤：
 
