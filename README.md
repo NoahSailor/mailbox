@@ -56,7 +56,7 @@ SMTP缺点：
 
 通用因特网邮件扩充MIME：使电子邮件系统可以支持声音、图像、视频、多种国家语言等等。
 
-![MIME](https://user-images.githubusercontent.com/39179120/145784046-2525d8d7-d14e-4792-987b-9d4f76f78564.jpg)
+![MIME](https://user-images.githubusercontent.com/39179120/145983645-38712a4a-3c12-4ef4-8b0e-ff7736b9f6d1.jpg)
 
 #### 1.3.3 电子邮件的信息格式
 
