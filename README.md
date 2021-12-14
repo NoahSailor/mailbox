@@ -64,6 +64,8 @@ SMTP缺点：
 
 #### 1.3.4 基于万维网的电子邮件
 
+![万维网](https://user-images.githubusercontent.com/39179120/145981203-6e501ee8-e312-4f3a-a4af-0a6b22ddd8d0.jpg)
+
 电子邮件从A的浏览器发送到网易的邮件服务器时，不是使用SMTP协议，而是使用HTTP协议；B用浏览器从新浪邮件服务器读取A发来的邮件时，使用HTTP协议，而不是使用POP3或IMAP协议。
 
 ## 2 实践应用
